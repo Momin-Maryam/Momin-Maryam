@@ -39,7 +39,7 @@
 
 <p align="center">
  
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Momin-Maryam&theme=radical&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Momin-Maryam&theme=radical&hide_border=true" />
 </p>
 
 ---
