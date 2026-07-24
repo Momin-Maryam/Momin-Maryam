@@ -2,7 +2,7 @@
 <h3 align="center">Chrome Extension Developer | Web Scraping & Automation Enthusiast</h3>
 
 <p align="center">
-  🔧 I build tools that automate the boring parts of the web — from browser extensions to data extraction pipelines.
+  🔧 I build tools that automate the boring parts of the web, from browser extensions to data extraction pipelines.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building SelectorScrape — a full-fledged web scraping Chrome extension (in the spirit of popular paid scraper tools) that lets users define custom fields with CSS selectors and extract structured data from any website into CSV, with pagination support
+- 🔭 Currently building SelectorScrape: a full-fledged web scraping Chrome extension (in the spirit of popular paid scraper tools) that lets users define custom fields with CSS selectors and extract structured data from any website into CSV, with pagination support
 - 🌱 Deepening my skills in **web scraping, browser automation, and Chrome Extension APIs**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/maryammmomin30)
 - 📍 Based in New Mumbai, India
