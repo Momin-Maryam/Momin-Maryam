@@ -35,14 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
- 
-<img height="165" src="https://streak-stats.demolab.com/?user=Momin-Maryam&theme=radical&hide_border=true" />
-</p>
-
----
 
 <p align="center"><i>Open to freelance work in Chrome Extension Development & Web Scraping/Automation 🚀</i></p>
 
