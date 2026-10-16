@@ -1,8 +1,9 @@
-<h1 align="center">Hi👋, I'm Maryam</h1>
-<h3 align="center">Chrome Extension Developer | Web Scraping & Automation Enthusiast</h3>
+
+<h1 align="center">Hi 👋, I'm Maryam</h1>
+<h3 align="center">AI Product Developer | Building at a Stealth AI Startup 🚀</h3>
 
 <p align="center">
-  🔧 I build tools that automate the boring parts of the web, from browser extensions to data extraction pipelines.
+  💡 Building AI-powered products that solve real-world problems through intelligent automation and thoughtful technology.
 </p>
 
 <p align="center">
@@ -13,10 +14,12 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building AI-powered products in a stealth startup, focused on intelligent automation and real-world problem solving.
-- 🌱 Deepening my skills in **web scraping, browser automation, and Chrome Extension APIs**
+- 🔭 Currently building **AI-powered products at a stealth startup**, focused on solving real-world problems.
+- 🧠 Exploring **AI integration, intelligent automation, and AI-powered user experiences**.
+- 🌱 Deepening my skills in **AI development, full-stack engineering, and product building**.
+- ⚡ Passionate about transforming complex ideas into simple, practical applications.
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/maryammmomin30)
-- 📍 Based in New Mumbai, India
+- 📍 Based in Navi Mumbai, India
 
 ---
 
@@ -24,31 +27,37 @@
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
+### 🔥 GitHub Streak
 
-<p align="center"><i>Open to freelance work in Chrome Extension Development & Web Scraping/Automation 🚀</i></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Momin-Maryam&theme=tokyonight&hide_border=true" alt="Maryam's GitHub Streak" />
+</p>
+
+---
+
+### 🌍 What I'm Currently Building
+
+<p>
+  Working behind the scenes on an <b>AI-powered startup</b>, creating intelligent applications that make everyday experiences smarter, simpler, and more intuitive.
+</p>
+
+<p align="center">
+  <i>Building, experimenting, and turning ideas into real-world AI products. 🚀</i>
+</p>
 
 <!--
-**Momin-Maryam/Momin-Maryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Momin-Maryam/Momin-Maryam** is a special repository because its README.md appears on your GitHub profile.
 -->
