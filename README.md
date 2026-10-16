@@ -15,12 +15,12 @@
 
 ### 🔴 About Me
 
-- 🔻 Currently building **AI-powered products at a stealth startup**, focused on solving real-world problems.
-- 🔻 Exploring **AI integration, intelligent automation, and AI-powered user experiences**.
-- 🔻 Deepening my skills in **AI development, full-stack engineering, and product building**.
-- 🔻 Passionate about transforming complex ideas into simple, practical applications.
-- 🔻 Reach me on [LinkedIn](https://linkedin.com/in/maryammmomin30)
-- 🔻 Based in Navi Mumbai, India
+ 🔻 Currently building **AI-powered products at a stealth startup**, focused on solving real-world problems.
+ 🔻 Exploring **AI integration, intelligent automation, and AI-powered user experiences**.
+ 🔻 Deepening my skills in **AI development, full-stack engineering, and product building**.
+ 🔻 Passionate about transforming complex ideas into simple, practical applications.
+ 🔻 Reach me on [LinkedIn](https://linkedin.com/in/maryammmomin30)
+ 🔻 Based in Navi Mumbai, India
 
 ---
 
