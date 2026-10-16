@@ -15,15 +15,14 @@
 
 ### 🔴 About Me
 
- 🔻 Currently building **AI-powered products at a stealth startup**, focused on solving real-world problems.
- 🔻 Exploring **AI integration, intelligent automation, and AI-powered user experiences**.
- 🔻 Deepening my skills in **AI development, full-stack engineering, and product building**.
- 🔻 Passionate about transforming complex ideas into simple, practical applications.
- 🔻 Reach me on [LinkedIn](https://linkedin.com/in/maryammmomin30)
- 🔻 Based in Navi Mumbai, India
+- 🔻 Currently building **AI-powered products at a stealth startup**, focused on solving real-world problems.
+- 🔻 Exploring **AI integration, intelligent automation, and AI-powered user experiences**.
+- 🔻 Deepening my skills in **AI development, full-stack engineering, and product building**.
+- 🔻 Passionate about transforming complex ideas into simple, practical applications.
+- 🔻 Reach me on [LinkedIn](https://linkedin.com/in/maryammmomin30)
+- 🔻 Based in Navi Mumbai, India
 
 ---
-
 ### 🔴 Tech Stack
 
 <p align="center">
@@ -53,6 +52,11 @@
 
 <p align="center">
   Working behind the scenes on an <b>AI-powered startup</b>, creating intelligent applications that make everyday experiences smarter, simpler, and more intuitive.
+</p>
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-4A0000?style=for-the-badge&labelColor=120406" />
+  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-800000?style=for-the-badge&labelColor=120406" />
 </p>
 
 <p align="center">
