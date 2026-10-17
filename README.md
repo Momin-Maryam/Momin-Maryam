@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi🥀, I'm Maryam</h1>
+<h1 align="center">Hi, I'm Maryam</h1>
 
 <h3 align="center">AI Product Developer | Building at a Stealth AI Startup</h3>
 
