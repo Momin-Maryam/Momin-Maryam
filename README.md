@@ -7,9 +7,9 @@
   🔴 Building AI-powered products that solve real-world problems through intelligent automation and thoughtful technology.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Momin-Maryam&label=Profile%20Views&color=800000&style=for-the-badge" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
