@@ -1,68 +1,83 @@
+<div align="center">
 
-<h1 align="center">Hi, I'm Maryam</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1026,50:1A1B4B,75:3B1E7A,100:6A2C91&height=180&section=header&text=Maryam%20Momin&fontSize=38&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" />
 
-<h3 align="center">AI Product Developer | Building at a Stealth AI Startup</h3>
+# ✦ AI Product Developer · Full-Stack · Automation
 
-<p align="center">
-  🔴 Building AI-powered products that solve real-world problems through intelligent automation and thoughtful technology.
-</p>
+### Building practical products at the intersection of AI, software, and intelligent automation
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Momin-Maryam&label=Profile%20Views&color=800000&style=for-the-badge" alt="Profile Views" />
-</p> -->
+<br/>
 
----
+<a href="https://linkedin.com/in/maryammmomin30">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2E3A8C?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Based%20in-Navi%20Mumbai-1F2A44?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Building-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
 
-### 🔴 About Me
-
-- 🔻 Currently building **AI-powered products at a stealth startup**, focused on solving real-world problems.
-- 🔻 Exploring **AI integration, intelligent automation, and AI-powered user experiences**.
-- 🔻 Deepening my skills in **AI development, full-stack engineering, and product building**.
-- 🔻 Passionate about transforming complex ideas into simple, practical applications.
-- 🔻 Reach me on [LinkedIn](https://linkedin.com/in/maryammmomin30)
-- 🔻 Based in Navi Mumbai, India
-
----
-### 🔴 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-4A0000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-600000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-B91C1C?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-4A0000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-800000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-600000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-B91C1C?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-4A0000?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-800000?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 🔴 GitHub Streak
+## ✦ About Me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Momin-Maryam&background=120406&ring=B91C1C&fire=DC2626&currStreakNum=FF4444&sideNums=FF4444&currStreakLabel=EF4444&sideLabels=EF4444&dates=A78B8B&stroke=4A0000&border=600000" alt="Maryam's GitHub Streak" />
+I'm a developer focused on building practical and intelligent applications, with interests in AI, automation, and full-stack product development.
+
+- Building products at a **stealth AI startup**
+- Working with **AI integrations, APIs, and automation**
+- Interested in **clean interfaces** and thoughtful user experiences
+- Continuously learning through real-world building and experimentation
+
+---
+
+## ✦ Tech Stack
+
+### Languages & Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=FDE68A" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=93C5FD" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=67E8F9" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=FCA5A5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=A5B4FC" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1A1B4B?style=flat-square&logo=nodedotjs&logoColor=86EFAC" />
+  <img src="https://img.shields.io/badge/Express-1A1B4B?style=flat-square&logo=express&logoColor=E5E7EB" />
+  <img src="https://img.shields.io/badge/MongoDB-1A1B4B?style=flat-square&logo=mongodb&logoColor=86EFAC" />
+  <img src="https://img.shields.io/badge/Supabase-1A1B4B?style=flat-square&logo=supabase&logoColor=6EE7B7" />
+</p>
+
+### AI & Tools
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-3B1E7A?style=flat-square&logo=openai&logoColor=E9D5FF" />
+  <img src="https://img.shields.io/badge/Git-3B1E7A?style=flat-square&logo=git&logoColor=FCA5A5" />
+  <img src="https://img.shields.io/badge/GitHub-3B1E7A?style=flat-square&logo=github&logoColor=FFFFFF" />
 </p>
 
 ---
 
-### 🔴 What I'm Currently Building
+## ✦ GitHub Activity
 
-<p align="center">
-  Working behind the scenes on an <b>AI-powered startup</b>, creating intelligent applications that make everyday experiences smarter, simpler, and more intuitive.
-</p>
+<div align="center">
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-4A0000?style=for-the-badge&labelColor=120406" />
-  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-800000?style=for-the-badge&labelColor=120406" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Momin-Maryam&hide_border=true&background=00000000&ring=8B5CF6&fire=A855F7&currStreakNum=C4B5FD&sideNums=93C5FD&currStreakLabel=E9D5FF&sideLabels=A5B4FC&dates=94A3B8&stroke=312E81" width="70%" alt="GitHub Streak" />
 
-<p align="center">
-  <i>❗ Building, experimenting, and turning ideas into real-world AI products.</i>
-</p>
+</div>
 
-<!--
-**Momin-Maryam/Momin-Maryam** is a special repository because its README.md appears on your GitHub profile.
--->
+---
+
+## ✦ Currently Building
+
+> **Stealth AI Startup**  
+> Developing intelligent applications that combine AI capabilities, automation, and user-focused product experiences.
+
+---
+
+<div align="center">
+
+### ✦ Exploring ideas, building products, and learning along the way ✦
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A2C91,25:3B1E7A,50:1A1B4B,75:0B1026,100:050816&height=100&section=footer" />
+
+</div>
